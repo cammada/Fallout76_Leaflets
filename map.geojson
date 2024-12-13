@@ -1,0 +1,14 @@
+{
+    "type":"FeatureCollection",
+    "crs":[
+        {
+            "type":"name",
+            "properties":{},
+            "geometry":{
+                "coordinates":
+                [1024, 1024],
+            "type":"Point"
+            }
+        }
+    ]
+}
